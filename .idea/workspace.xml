@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b312c38-617f-47cc-b3db-6a4e0149da1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorDeMoedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menuconversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/conversordemoedas/Conertendo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/conversordemoedas/ConversorApi.java" afterDir="false" />
+    <list default="true" id="1b312c38-617f-47cc-b3db-6a4e0149da1a" name="Changes" comment="git init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716408759695</updated>
     </task>
+    <task id="LOCAL-00001" summary="git init">
+      <option name="closed" value="true" />
+      <created>1716494036843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716494036843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init" />
   </component>
 </project>
